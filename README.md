@@ -3,6 +3,8 @@ J'ai essayé de jouer avec les données de ce challenge Kaggle : https://www.kag
 
 Le dataset est public et contient des valeurs des taux/pourcentages de réponse positives à une liste de questions, qui appartiennent à différents sujets (topics).
 Diverses questions liées à la santé ont été évaluées à différents moments et endroits aux États-Unis au cours des 15 dernières années.
+
+
 J'ai fait une étude de fouille  pour chercher des corrélations éventuelles sur les questions qui concernent les lycéens américains :
 
 'Computer use among high school students',
